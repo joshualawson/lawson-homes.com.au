@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1166 331" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-464.487)">
+        <g id="Artboard2" transform="matrix(3.52462,0,0,1,3.03793,468.919)">
+            <rect x="-0.862" y="-4.432" width="330.748" height="330.748" style="fill:none;"/>
+            <g transform="matrix(0.283718,0,0,1,0.297178,-12.8672)">
+                <g transform="matrix(1,0,0,1,-7.93069,-37.0501)">
+                    <path d="M119.157,50.3C119.157,50.3 25.84,55.054 18.883,142.512L18.883,371.094L118.952,281.06L119.157,50.3Z" style="fill:rgb(186,186,186);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,92.2649,-37.1205)">
+                    <path d="M119.157,50.3C119.157,50.3 25.84,55.054 18.883,142.512L18.627,371.359L118.952,281.06L119.157,50.3Z" style="fill:rgb(230,230,230);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,192.468,-36.9204)">
+                    <path d="M119.157,50.3C119.157,50.3 25.84,55.054 18.883,142.512L18.627,371.359L118.952,281.06L119.157,50.3Z" style="fill:rgb(134,134,134);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-9.07667,-38.1441)">
+                    <path d="M320.101,371.842L268.745,371.842C268.745,371.842 320.267,320.32 320.267,320.654L320.101,371.842Z" style="fill:rgb(187,187,187);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.283718,0,0,1,-16.9576,-516.786)">
+                <g transform="matrix(192,0,0,192,1208.24,660.887)">
+                </g>
+                <text x="383.241px" y="660.887px" style="font-family:'ArialMT', 'Arial';font-size:192px;fill:rgb(230,230,230);stroke:rgb(230,230,230);stroke-width:4.01px;">LA<tspan x="610.96px 792.179px " y="660.887px 660.887px ">WS</tspan>ON</text>
+            </g>
+            <g transform="matrix(0.283718,0,0,1,-20.4786,-408.642)">
+                <g transform="matrix(144,0,0,144,1217.74,726.483)">
+                </g>
+                <text x="400.97px" y="726.483px" style="font-family:'ArialMT', 'Arial';font-size:144px;fill:rgb(230,230,230);">H<tspan x="576.962px 760.97px 953.643px 1121.69px " y="726.483px 726.483px 726.483px 726.483px ">OMES</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>
